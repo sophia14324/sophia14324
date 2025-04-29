@@ -16,9 +16,15 @@
 <!-- what I do + impact -->
 <div align="center" style="max-width:820px; margin:25px auto; font-size:15px; line-height:1.55;">
   <h3 style="margin:6px 0 8px;">🧩 What&nbsp;I&nbsp;do</h3>
-  Build end-to-end ML pipelines – from raw time-series &amp; SQL lakes → cloud/edge deployment.<br>
-  Nail the last mile: dashboards, APIs, auto-retraining &amp; CI/CD so models stay useful.<br>
-  Translate data stories for C-suite, field technicians & investors.
+  
+  1. Collect, clean, analyze, and process data for forecasting and classification.<br>
+  
+  2. Build end-to-end ML pipelines* – from raw time-series &amp; SQL lakes → cloud/edge deployment.<br>
+  
+  3. Nail the last mile*: dashboards, APIs, auto-retraining &amp; CI/CD so models stay useful.<br>
+  
+  4. Translate data to stories for field technicians & investors.
+
   <br><br>
 
   <h3 style="margin:6px 0 8px;">⚡️ Impact snapshots</h3>
@@ -27,9 +33,9 @@
       <tr><td>🌍 Sector</td><td>⚙️ Solution</td><td>📈 Result</td></tr>
     </thead>
     <tbody align="center">
-      <tr><td>Mini-grids</td><td>CNN-LSTM&nbsp;NILM → appliance-level tariffs</td><td>Improvement in load visibility; Potential for 10–15 % tariff optimization;
-      <tr><td>Telecom</td><td>XGBoost demand forecast</td><td>Projected 10–12 % reduction in generator runtime; estimated savings ~120–150 tonnes CO₂ per year at 5–10 sites;
-      <tr><td>Fintech</td><td>GBM risk model</td><td>+5–7 percentage point increase in loan-approval precision at comparable default rates
+      <tr><td>Mini-grids</td><td>CNN-LSTM&nbsp;NILM → appliance-level tariffs</td><td>Improvement in load visibility; Potential for 10–15 % tariff optimization.
+      <tr><td>Telecom</td><td>XGBoost demand forecast</td><td>Projected 10–12 % reduction in generator runtime; estimated savings ~120–150 tonnes CO₂ per year at 5–10 sites.
+      <tr><td>Fintech</td><td>GBM risk model</td><td>+5–7 percentage point increase in loan-approval precision at comparable default rates.
     </tbody>
   </table>
 </div>
