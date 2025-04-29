@@ -81,10 +81,10 @@ Fintech	Gradient-boost risk model	                                   +12 pp loan
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Data are just stories in waiting—my craft is helping them speak for a cleaner, smarter planet.
-Let’s write the next chapter together.' 
-                                                          
-/></a>
+ 
+Data are just stories in waiting—my craft is helping them speak for a cleaner, smarter planet.
+                    **Let’s write the next chapter together!**
+ </div>
 </div>
 
 <br/>
