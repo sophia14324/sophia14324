@@ -1,90 +1,90 @@
+<!-- README START -->
+<!-- visitor counter -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sophia14324.sophia14324" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sophia+Mbataru!;" />
+<!-- animated headline -->
+<h1 align="center" style="margin-bottom:0;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+there+👋;+I'm+Sophia+Mbataru!" alt="typing intro">
 </h1>
 
-<h3 align="center">👋 Hi, I’m Sophia — a data scientist / ML engineer who turns messy data into actionable products
-
-4 + years across energy, climate-tech & ops analytics
-
+<!-- short bio -->
+<h3 align="center" style="margin-top:6px;">
+  👋 I’m Sophia — a data scientist&nbsp;/&nbsp;ML engineer who turns messy data into actionable products.<br>
+  4&nbsp;+ years across energy, climate-tech &amp; ops analytics.
 </h3>
 
-<br/>
+<!-- what I do + impact -->
+<div align="center" style="max-width:820px; margin:25px auto; font-size:15px; line-height:1.55;">
+  <h3 style="margin:6px 0 8px;">🧩 What&nbsp;I&nbsp;do</h3>
+  Build end-to-end ML pipelines – from raw time-series &amp; SQL lakes → cloud/edge deployment.<br>
+  Nail the last mile: dashboards, APIs, auto-retraining &amp; CI/CD so models stay useful.<br>
+  Translate data stories for C-suite, field technicians & investors.
+  <br><br>
 
-<div align="center">
- 
-🧩 What I do
-Build end-to-end ML pipelines — from raw time-series & SQL lakes → cloud/edge deployment
+  <h3 style="margin:6px 0 8px;">⚡️ Impact snapshots</h3>
+  <table align="center" cellspacing="6">
+    <thead align="center" style="font-weight:bold; background:#f2f2f2;">
+      <tr><td>🌍 Sector</td><td>⚙️ Solution</td><td>📈 Result</td></tr>
+    </thead>
+    <tbody align="center">
+      <tr><td>Mini-grids</td><td>CNN-LSTM&nbsp;NILM → appliance-level tariffs</td><td>3× billing granularity;<br>↓ capex 20 %</td></tr>
+      <tr><td>Telecom</td><td>XGBoost demand forecast</td><td>Cut diesel runtime 18 %;<br>-270 t CO₂ / yr</td></tr>
+      <tr><td>Fintech</td><td>GBM risk model</td><td>+12 pp loan-approval accuracy<br>at same default rate</td></tr>
+    </tbody>
+  </table>
+</div>
 
-Nail the last mile: dashboards, APIs, auto-retraining & CI/CD so models stay useful
-
-Translate data stories for C-suite, field technicians, and investors
-
-⚡️ Impact snapshots
-🌍 Sector	                                                                ⚙️ Solution	📈 Result
-Mini-grids	CNN-LSTM NILM ➜ appliance-level tariffs	               3× billing granularity, ↓ metering capex 20 %
-Telecom	XGBoost demand forecast	                                       Cut diesel runtime 18 %, saving 270 t CO₂/yr
-Fintech	Gradient-boost risk model	                                   +12 pp loan approval accuracy at same default rate
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:sophiambataru@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/sophia-m-310b19105/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://sophia14324.github.io/Portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+<!-- contact buttons -->
+<div align="center" style="margin:25px 0;">
+  <a href="mailto:sophiambataru@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/sophia-m-310b19105/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;
+  <a href="https://sophia14324.github.io/Portfolio/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
   </a>
 </div>
 
-#### 🛠️  Languages & Frameworks
-<p align="left">
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="28" alt="Python"></a>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL"></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="28" alt="MySQL"></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="28" alt="pandas"></a>
-  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="28" alt="NumPy"></a>
-  <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" height="28" alt="scikit-learn"></a>
-  <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="28" alt="TensorFlow"></a>
-  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="Power BI"></a>
-  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28" alt="Tableau"></a>
-  <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="28" alt="Jupyter"></a>
+<!-- tech stack -->
+<h3 align="center" style="margin:16px 0 4px;">🛠️  Languages &amp; Frameworks</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="28" alt="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="28" alt="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="28" alt="pandas">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="28" alt="NumPy">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" height="28" alt="scikit-learn">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="28" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28" alt="Tableau">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="28" alt="Jupyter">
 </p>
 
-<div align="center">
+<!-- contribution snake -->
+<div align="center" style="margin:35px 0;">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sophia14324/sophia14324/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img src="https://raw.githubusercontent.com/sophia14324/sophia14324/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width:100%;">
 </div>
 
-<hr/>
+<hr style="width:80%;">
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
+<!-- stats -->
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <div align="center">
- 
-Data are just stories in waiting—my craft is helping them speak for a cleaner, smarter planet.
-                    **Let’s write the next chapter together!**
- </div>
+  <img width="390" src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats">
+  <br>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages">
 </div>
 
-<br/>
+<hr style="width:80%;">
+
+<!-- final tagline -->
+<div align="center" style="margin:30px auto; font-size:18px; line-height:1.5;">
+  Data are just stories in waiting—my craft is helping them speak for a cleaner, smarter planet.<br/>
+  <strong style="font-size:20px;">Let’s write the next chapter together!</strong>
+</div>
+<!-- README END -->
