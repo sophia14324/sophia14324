@@ -27,9 +27,9 @@
       <tr><td>🌍 Sector</td><td>⚙️ Solution</td><td>📈 Result</td></tr>
     </thead>
     <tbody align="center">
-      <tr><td>Mini-grids</td><td>CNN-LSTM&nbsp;NILM → appliance-level tariffs</td><td>3× billing granularity;<br>↓ capex 20 %</td></tr>
-      <tr><td>Telecom</td><td>XGBoost demand forecast</td><td>Cut diesel runtime 18 %;<br>-270 t CO₂ / yr</td></tr>
-      <tr><td>Fintech</td><td>GBM risk model</td><td>+12 pp loan-approval accuracy<br>at same default rate</td></tr>
+      <tr><td>Mini-grids</td><td>CNN-LSTM&nbsp;NILM → appliance-level tariffs</td><td>improvement in load visibility; potential for 10–15 % tariff optimization;<br>↓ capex 20 %</td></tr>
+      <tr><td>Telecom</td><td>XGBoost demand forecast</td><td>Projected 10–12 % reduction in generator runtime; estimated savings ~120–150 tonnes CO₂ per year at 5–10 sites;<br>-270 t CO₂ / yr</td></tr>
+      <tr><td>Fintech</td><td>GBM risk model</td><td>+5–7 percentage point increase in loan-approval precision at comparable default rates<br>at same default rate</td></tr>
     </tbody>
   </table>
 </div>
