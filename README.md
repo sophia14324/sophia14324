@@ -34,7 +34,7 @@
     </thead>
     <tbody align="center">
       <tr><td>Mini-grids</td><td>CNN-LSTM&nbsp;NILM → appliance-level tariffs</td><td>Improvement in load visibility; Potential for 10–15 % tariff optimization.
-      <tr><td>Telecom</td><td>XGBoost demand forecast</td><td>Projected 10–12 % reduction in generator runtime; estimated savings ~120–150 tonnes CO₂ per year at 5–10 sites.
+      <tr><td>Telecom</td><td>XGBoost demand forecast</td><td>Projected 10–12 % reduction in generator runtime.
       <tr><td>Fintech</td><td>GBM risk model</td><td>+5–7 percentage point increase in loan-approval precision at comparable default rates.
     </tbody>
   </table>
