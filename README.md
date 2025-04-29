@@ -9,7 +9,7 @@
 
 <!-- short bio -->
 <h3 align="center" style="margin-top:6px;">
-  👋 I’m Sophia — a data scientist&nbsp;/&nbsp;ML engineer who turns messy data into actionable products.<br>
+  I’m a data analyst&nbsp;/&nbsp;data scientist&nbsp;/&nbsp;ML engineer who turns messy data into actionable products.<br>
   4&nbsp;+ years across energy, climate-tech &amp; ops analytics.
 </h3>
 
