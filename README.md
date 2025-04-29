@@ -71,12 +71,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="28" alt="Microsoft Azure">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height="28" alt="Slack">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxdb/influxdb-original-wordmark.svg" height="28" alt="InfluxDB">
-        
+ 
 
 </p>
 
+<div align="center">
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sophia14324&show_icons=true&count_private=true)
+  
+</div>
+
 <!-- contribution snake -->
-<div align="center" style="margin:35px 0;">
+
+<div align="center" style="margin:30px 0;">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img src="https://raw.githubusercontent.com/sophia14324/sophia14324/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width:100%;">
