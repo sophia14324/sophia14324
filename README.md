@@ -75,12 +75,6 @@
 
 </p>
 
-<div align="center">
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sophia14324&show_icons=true&count_private=true)
-  
-</div>
-
 <!-- contribution snake -->
 
 <div align="center" style="margin:30px 0;">
