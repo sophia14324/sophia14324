@@ -4,21 +4,28 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sophia+Mbataru!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">👋 Hi, I’m Sophia — a data scientist / ML engineer who turns messy data into actionable products
+
+4 + years across energy, climate-tech & ops analytics
+
+</h3>
 
 <br/>
 
 <div align="center">
  
-Data Scientist & Machine-Learning Engineer with **4 + years** turning messy data into clean insights and deployable models.  
- 
-I design analytics & AI solutions at the intersection of **energy, climate innovation and business operations**—from NILM tariff models for mini-grids to demand-forecasting in telecom and credit-risk scoring in fintech.
+🧩 What I do
+Build end-to-end ML pipelines — from raw time-series & SQL lakes → cloud/edge deployment
 
-* **Toolbox:** Python | SQL | pandas | NumPy | scikit-learn | TensorFlow | Power BI | Tableau  
-* **What I love:** translating raw sensor streams into climate-positive decisions, mentoring junior analysts, and pushing models all the way to production.  
-* **Current focus:** low-cost energy disaggregation, carbon-aware scheduling, and ML ops on constrained edge devices.  
-* **Let’s collaborate:** open-source climate/energy projects, data-for-good hackathons, or anything that makes kWh & kg CO₂ easier to see and act on.
+Nail the last mile: dashboards, APIs, auto-retraining & CI/CD so models stay useful
 
+Translate data stories for C-suite, field technicians, and investors
+
+⚡️ Impact snapshots
+🌍 Sector	                                                                ⚙️ Solution	📈 Result
+Mini-grids	CNN-LSTM NILM ➜ appliance-level tariffs	               3× billing granularity, ↓ metering capex 20 %
+Telecom	XGBoost demand forecast	                                       Cut diesel runtime 18 %, saving 270 t CO₂/yr
+Fintech	Gradient-boost risk model	                                   +12 pp loan approval accuracy at same default rate
 
  </div>
  
