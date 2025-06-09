@@ -9,7 +9,7 @@
 
 <!-- short bio -->
 <h3 align="center" style="margin-top:6px;">
-  _Data/ML Scientist · Energy & Climate Tech Enthusiast_
+   Data/ML Scientist · Energy & Climate Tech Enthusiast 
 </h3>
 
 <!-- what I do + impact -->
