@@ -12,6 +12,7 @@
    Data/ML Scientist · Energy & Climate Tech Enthusiast 
 </h3>
 
+<br>
 <!-- what I do + impact -->
 <div align="center" style="max-width:820px; margin:25px auto; font-size:15px; line-height:1.55;">
   <h3 style="margin:6px 0 8px;">🧩 What&nbsp;I&nbsp;do</h3>
