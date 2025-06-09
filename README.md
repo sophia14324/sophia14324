@@ -41,6 +41,7 @@
   </table>
 </div>
 
+<br>
 <!-- contact buttons -->
 <div align="center" style="margin:25px 0;">
   <a href="mailto:sophiambataru@gmail.com" style="text-decoration:none;">
@@ -54,6 +55,7 @@
   </a>
 </div>
 
+<br>
 <!-- tech stack -->
 <h3 align="center" style="margin:16px 0 4px;">🛠️  Languages &amp; Frameworks</h3>
 <p align="center">
@@ -86,6 +88,7 @@
 
 <hr style="width:80%;">
 
+<br>
 <!-- stats -->
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <div align="center">
