@@ -86,6 +86,7 @@
 <br>
 <!-- contribution snake -->
 
+<!--
 <div align="center" style="margin:30px 0;">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
