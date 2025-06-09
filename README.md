@@ -42,6 +42,10 @@
 </div>
 
 <br>
+#### 🌱 Currently learning
+Probabilistic forecasts & climate-risk analytics.
+
+<br>
 <!-- contact buttons -->
 <div align="center" style="margin:25px 0;">
   <a href="mailto:sophiambataru@gmail.com" style="text-decoration:none;">
@@ -75,9 +79,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height="28" alt="Slack">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxdb/influxdb-original-wordmark.svg" height="28" alt="InfluxDB">
  
-
 </p>
-
+<br>
 <!-- contribution snake -->
 
 <div align="center" style="margin:30px 0;">
