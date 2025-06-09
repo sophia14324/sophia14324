@@ -36,6 +36,7 @@
       <tr><td>Mini-grids</td><td>CNN-LSTM&nbsp;NILM → appliance-level tariffs</td><td>Improvement in load visibility; Potential for 10–15 % tariff optimization.
       <tr><td>Telecom</td><td>XGBoost demand forecast</td><td>Projected 10–12 % reduction in generator runtime.
       <tr><td>Fintech</td><td>GBM risk model</td><td>+5–7 percentage point increase in loan-approval precision at comparable default rates.
+      <tr><td>Climate</td><td>Kenya long-rains SPI-3 pipeline</td><td>atches NDMA drought alerts; open-sourced for regional scaling.
     </tbody>
   </table>
 </div>
@@ -98,7 +99,7 @@
 
 <!-- final tagline -->
 <div align="center" style="margin:30px auto; font-size:18px; line-height:1.5;">
-  Data are just stories in waiting—my craft is helping them speak for a cleaner, smarter planet.<br/>
-  <strong style="font-size:20px;">Let’s write the next chapter together!</strong>
+  “Data that never ships is just a hobby.”<br/>
+  <strong style="font-size:20px;">I care about the last mile—dashboards, APIs, and clear storytelling—because that’s where decisions happen.</strong>
 </div>
 <!-- README END -->
