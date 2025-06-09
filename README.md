@@ -43,7 +43,10 @@
 
 <br>
 #### 🌱 Currently learning
-Probabilistic forecasts & climate-risk analytics.
+<div align="center" style="max-width:820px; margin:25px auto; font-size:15px; line-height:1.55;">
+  <h3 style="margin:6px 0 8px;">🌱 Currently&nbsp;learning &nbsp;</h3>
+
+  Probabilistic forecasts & climate-risk analytics.
 
 <br>
 <!-- contact buttons -->
