@@ -46,7 +46,8 @@
   <h3 style="margin:6px 0 8px;">🌱 Currently&nbsp;learning &nbsp;</h3>
 
 <div align="center" style="max-width:820px; margin:25px auto; font-size:15px; line-height:1.55;">
-  <h3 style="margin:6px 0 8px;"> Probabilistic&nbsp;forecasts & &nbsp; climate-risk analytics.</h3>
+  <h3 style="margin:6px 0 8px;"> Probabilistic&nbsp;forecasts & &nbsp;climate-risk analytics.</h3>
+
 
 <br>
 <!-- contact buttons -->
