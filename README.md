@@ -9,8 +9,7 @@
 
 <!-- short bio -->
 <h3 align="center" style="margin-top:6px;">
-  _Data/ML Scientist · Energy & Climate Tech Enthusiast_&nbsp;/&nbsp;data scientist&nbsp;/&nbsp;ML engineer who turns messy data into actionable products.<br>
-  4&nbsp;+ years across energy, climate-tech &amp; ops analytics.
+  _Data/ML Scientist · Energy & Climate Tech Enthusiast_
 </h3>
 
 <!-- what I do + impact -->
