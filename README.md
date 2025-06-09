@@ -17,11 +17,11 @@
 <div align="center" style="max-width:820px; margin:25px auto; font-size:15px; line-height:1.55;">
   <h3 style="margin:6px 0 8px;">🧩 What&nbsp;I&nbsp;do</h3>
   
-  1. Collect, clean, analyze, and process data for forecasting and classification.<br>
+  1. Turn messy time-series into **deployable ML products** from ETL → model → API/dashboard.<br>
   
-  2. Build end-to-end ML pipelines* – from raw time-series &amp; SQL lakes → cloud/edge deployment.<br>
+  2. **Bridge domains:** proved that skills from Non-Intrusive Load Monitoring (NILM) can flag droughts in satellite rainfall data.<br>
   
-  3. Nail the last mile*: dashboards, APIs, auto-retraining &amp; CI/CD so models stay useful.<br>
+  3. Knit together Python, SQL, Docker, CI/CD for models that don’t break in production.<br>
   
   4. Translate data to stories for field technicians & investors.
 
@@ -36,7 +36,7 @@
       <tr><td>Mini-grids</td><td>CNN-LSTM&nbsp;NILM → appliance-level tariffs</td><td>Improvement in load visibility; Potential for 10–15 % tariff optimization.
       <tr><td>Telecom</td><td>XGBoost demand forecast</td><td>Projected 10–12 % reduction in generator runtime.
       <tr><td>Fintech</td><td>GBM risk model</td><td>+5–7 percentage point increase in loan-approval precision at comparable default rates.
-      <tr><td>Climate</td><td>Kenya long-rains SPI-3 pipeline</td><td>atches NDMA drought alerts; open-sourced for regional scaling.
+      <tr><td>Climate</td><td>Kenya long-rains SPI-3 pipeline</td><td>Matches NDMA drought alerts; open-sourced for regional scaling.
     </tbody>
   </table>
 </div>
@@ -100,6 +100,6 @@
 <!-- final tagline -->
 <div align="center" style="margin:30px auto; font-size:18px; line-height:1.5;">
   “Data that never ships is just a hobby.”<br/>
-  <strong style="font-size:20px;">I care about the last mile—dashboards, APIs, and clear storytelling—because that’s where decisions happen.</strong>
+  <strong style="font-size:20px;">I care about the last mile dashboards, APIs, and clear storytelling, because that’s where decisions happen.</strong>
 </div>
 <!-- README END -->
